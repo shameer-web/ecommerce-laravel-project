@@ -33,47 +33,29 @@
       </div>
       <!-- Heading -->
 
-      <!--Grid row-->
+     
       <div class="row wow fadeIn">
-
-        <!--Grid column-->
         <div class="col-md-3 ">
-
-          <!--Card-->
           <div class="card">
-
-            <!--Card content-->
             <div class="card-body">
 
               <h5>Total Orders : 9</h5>
-
             </div>
-
           </div>
-          <!--/.Card-->
-
         </div>
-        <!--Grid column-->
 
 
-         <!--Grid column-->
+       
         <div class="col-md-3 ">
-
-          <!--Card-->
           <div class="card">
-
-            <!--Card content-->
             <div class="card-body">
 
               <h5>Today Order : 5</h5>
 
             </div>
-
           </div>
-          <!--/.Card-->
-
         </div>
-        <!--Grid column-->
+       
 
        
 

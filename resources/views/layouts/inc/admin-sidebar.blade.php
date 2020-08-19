@@ -18,8 +18,8 @@
           <i class="fa fa-table mr-3"></i>Tables</a>
         <a href="#" class="list-group-item list-group-item-action waves-effect">
           <i class="fa fa-map mr-3"></i>Maps</a>
-        <a href="#" class="list-group-item list-group-item-action waves-effect">
-          <i class="fa fa-money mr-3"></i>Orders</a>
+        <a href="{{ url('registered-user') }}" class="list-group-item list-group-item-action waves-effect">
+          <i class="fa fa-users mr-3"></i>Registered User</a>
       </div>
 
     </div>

@@ -1,7 +1,7 @@
 @extends('layouts.frondend')
 
 @section('content')
-<section style="padding-top: 84px">
+<section style="padding-top: 150px">
     
 
 <div class="container">
