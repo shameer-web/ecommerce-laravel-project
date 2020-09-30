@@ -46,7 +46,8 @@ class LoginController extends Controller
         //normal user login
         if(Auth::user()->role_as == NULL)
         {
-           return 'home';
+           // return 'home';
+            return '/';
         }
 
 

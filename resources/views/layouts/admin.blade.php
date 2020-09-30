@@ -16,6 +16,8 @@
   <link href="{{asset('assets/css/mdb.min.css')}}" rel="stylesheet">
   <!-- Your custom styles (optional) -->
   <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
+   <!-- Your Datatable styles (optional) -->
+  <link href="{{asset('assets/css/addons/datatables.min.css')}}" rel="stylesheet">
 
   <style>
     
@@ -65,8 +67,16 @@
   <script type="text/javascript" src="{{asset('assets/js/popper.min.js')}}"></script>
   <!-- Bootstrap core JavaScript -->
   <script type="text/javascript" src="{{asset('assets/js/bootstrap.min.js')}}"></script>
-  <!-- MDB core JavaScript -->
+
+  <!-- MDB core Datatables -->
   <script type="text/javascript" src="{{asset('assets/js/mdb.min.js')}}"></script>
+
+
+  <!-- MDB core Datatables -->
+  <script type="text/javascript" src="{{asset('assets/js/addons/datatables.min.js')}}"></script>
+  @yield('scripts')
+
+  
 </body>
 
 </html>
